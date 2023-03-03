@@ -13,6 +13,7 @@ function App() {
         </a>
         <a href="https://reactjs.org" target="_blank">
           <img src={blueberry} className="logo react" alt="blueberry" />
+            <p>Hi Tamer's Section!</p>
         </a>
       </div>
       <h1>Vite + React</h1>
